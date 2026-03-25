@@ -58,6 +58,22 @@ nav a:hover {
 .hero p {
   opacity: 0.8;
 }
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: lightblue;
+}
+
+a:active {
+    color: lightblue;
+}
 
 button {
   margin-top: 20px;
