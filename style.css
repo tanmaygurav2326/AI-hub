@@ -59,20 +59,20 @@ nav a:hover {
   opacity: 0.8;
 }
 a {
-    color: white;
-    text-decoration: none;
+    color: lightblue:
+    text-decoration: underline;
 }
 
 a:visited {
-    color: white;
+    color: lightblue;
 }
 
 a:hover {
-    color: lightblue;
+    color: cyan;
 }
 
 a:active {
-    color: lightblue;
+    color: cyan;
 }
 
 button {
