@@ -3,12 +3,13 @@
   padding: 0;
   box-sizing: border-box;
 }
+
 html {
-  scroll-behaviour:smooth;
+  scroll-behavior: smooth;
 }
 
 body {
-  font-family: Monaco, Consolas,  monospace;
+  font-family: Monaco, Consolas, monospace;
   background: black;
   color: white;
 }
@@ -31,7 +32,6 @@ nav {
 .logo img {
   width: 35px;
   height: 35px;
-  margin-right: 10px;
 }
 
 nav a {
@@ -59,20 +59,20 @@ nav a:hover {
   opacity: 0.8;
 }
 a {
-    color: lightblue:
-    text-decoration: underline;
+  color: #7dd3fc;
+  text-decoration: underline;
 }
 
 a:visited {
-    color: lightblue;
+  color: #7dd3fc;
 }
 
 a:hover {
-    color: cyan;
+  color: cyan;
 }
 
 a:active {
-    color: cyan;
+  color: cyan;
 }
 
 button {
@@ -137,4 +137,4 @@ footer {
 @keyframes fadeIn {
   from {opacity: 0;}
   to {opacity: 1;}
-}
+}  
