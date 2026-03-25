@@ -28,6 +28,7 @@ nav {
 .logo img {
   width: 35px;
   height: 35px;
+  margin-right: 10px;
 }
 
 nav a {
@@ -38,6 +39,7 @@ nav a {
 
 nav a:hover {
   color: skyblue;
+  text-decoration: underline;
 }
 
 .hero {
