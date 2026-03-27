@@ -15,7 +15,7 @@ body {
 }
 
 nav {
-  background: #1e293b;
+  background: MidnightBlue;
   padding: 15px 30px;
   display: flex;
   justify-content: space-between;
@@ -59,12 +59,12 @@ nav a:hover {
   opacity: 0.8;
 }
 a {
-  color: #7dd3fc;
+  color: LightSkyBlue;
   text-decoration: underline;
 }
 
 a:visited {
-  color: #7dd3fc;
+  color: LightSkyBlue
 }
 
 a:hover {
@@ -97,7 +97,7 @@ button:hover {
 }
 
 .card {
-  background: #1e293b;
+  background: MidnightBlue;
   padding: 20px;
   border-radius: 12px;
 }
@@ -123,7 +123,7 @@ h2 {
 }
 
 footer {
-  background: #1e293b;
+  background: MidnightBlue;
   text-align: center;
   padding: 20px;
   margin-top: 40px;
