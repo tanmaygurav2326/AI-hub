@@ -107,7 +107,10 @@ This project was inspired by:
 - Add more AI tools  
 - Improve design with animations  
 - Make the website fully responsive  
-- Add search functionality  
+- Add search functionality
+  ---
+## LICENSE
+- This projrct is licensed under the MIT license
 
 ---
 
